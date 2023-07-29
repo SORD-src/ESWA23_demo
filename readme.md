@@ -27,8 +27,11 @@ flask --app main run
 4. Type in the URL of the Git repo for feature generation (see **./vids/Dataset Generation.mp4** for a video example).      
 5. Access http://localhost:5000/project/{name_of_your_repo} to analyze data (see **./vids/Result Analyze.mp4** for a video example). The predictions are made instantly (when you click on the select dropdown).       
 
+## Author
+Zijie Huang, East China University of Science and Technology
+https://hzjdev.github.io/
 
-References 
+## References 
 
 [1] Fabiano Pecorelli, Fabio Palomba, Foutse Khomh, Andrea De Lucia: Developer-Driven Code Smell Prioritization. MSR 2020: 220-231      
 [2] https://github.com/mauricioaniche/ckhttps://github.com/mauricioaniche/ck/       
