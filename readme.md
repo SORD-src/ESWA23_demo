@@ -24,8 +24,8 @@ pip install -r requirement.txt
 flask --app main run
 ```
 3. Access http://localhost:5000/     
-4. Type in the URL of the Git repo for feature generation (see **./vids/Dataset Generation.mp4** for a video example).      
-5. Access http://localhost:5000/project/{name_of_your_repo} to analyze data (see **./vids/Result Analyze.mp4** for a video example). The predictions are made instantly (when you click on the select dropdown).       
+4. Type in the URL of the Git repo for feature generation (see **./vids/Dataset Generation.mp4** for a video example), and wait for it to finish. You may check the console to see the process. This process may take some time because we are using a synchronical solution to avoid consuming too much storage. It could also be done asynchronically, if each time we copy an entire project for each analysis to avoid conflict.     
+5. Access http://localhost:5000/project/{name_of_your_repo} to analyze data (see **./vids/Result Analyze.mp4** for a video example). The predictions are made instantly (when you click the select dropdown).       
 
 ## Author
 Zijie Huang, East China University of Science and Technology
