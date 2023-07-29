@@ -5,7 +5,7 @@
 This is a webapp demo repository for XAI application in code smell prioritization.    
 This repository contains model generation, dataset generation, and data analyzing functions.    
 
-## Demos 
+## Demos Videos
 **Two video demos containing the execution result of the program is available in the ./vids/ directory.**    
 https://github.com/escapar/ESWA23_demo/blob/master/vids/Dataset%20Generation.mp4       
 https://github.com/escapar/ESWA23_demo/blob/master/vids/Result%20Analyze.mp4       
