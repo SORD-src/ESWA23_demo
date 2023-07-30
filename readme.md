@@ -1,4 +1,5 @@
 # Demo for the ESWA'23 Paper
+![Screenshot](https://github.com/SORD-src/ESWA23_demo/assets/13232736/835d9fe9-17eb-4dc3-b4ad-f62046ce7e33)
 
 ## Description
 
